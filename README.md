@@ -272,28 +272,6 @@ Cada subpasta contém:
 
 ---
 
-## Progressão para Outras Categorias
-
-```
-_estudos-logica/          _estudos-javascript/      _estudos-php/
-     │                          │                        │
-     │  Raciocínio lógico       │  Sintaxe + DOM         │  Backend + BD
-     │  Algoritmos              │  Eventos + CRUD        │  Sessões + Auth
-     │  Git + POO               │  localStorage          │  Formulários
-     │                          │                        │
-     └──────────────────────────┴────────────────────────┘
-                     │
-                     ▼
-            _estudos-nodejs/   (APIs REST, Web Scraping)
-                     │
-                     ▼
-               NexusAuth        (Microsserviço completo)
-```
-
-> A lógica é a base. Sem ela, não há JavaScript, não há PHP, não há back-end. Cada categoria seguinte assume que esta fundação está sólida.
-
----
-
 ## Roadmap — O que vem a seguir?
 
 | Meta | Estado |
